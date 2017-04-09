@@ -13,13 +13,13 @@ Sinta-se livre para usar isso em seus projetos.
 
 Clone este repositório e então execute o script `init.sh`.
 
-Este script irá o comando `docker-compose` para iniciar os containers.
+Este script irá executar o comando `docker-compose` para iniciar os containers.
 
 ### Configuração
 
 Desde a [versão 2 do `compose-file`](https://docs.docker.com/compose/environment-variables/#the-env-file), o arquivo `docker-compose.yml` suporta variáveis de ambiente que são definidas no arquivo `.env`.
 
-Se você precisar atlerar estes valores, altere o arquivo `.env` e execute o script `init.sh` novamente.
+Se você precisar alterar estes valores, modifique o arquivo `.env` e execute o script `init.sh` novamente.
 
 ### Contribuição
 

@@ -1,4 +1,6 @@
 
+Versão em [Português Brasileiro](./README.pt-br.md).
+
 This version works with `compose-file` version 2.
 
 To check `compose-file` version 1 of this repository follow [this link](https://github.com/maicoqb/docker-lemp/tree/v1.0)

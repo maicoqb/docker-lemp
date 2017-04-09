@@ -1,3 +1,8 @@
+
+This version works with compose-file version 1.
+
+To check latest version of this repository [follow this link](https://github.com/maicoqb/docker-lemp/tree/master).
+
 ### Docker LEMP
 
 This is my Docker Lemp configuration.
